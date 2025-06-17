@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shehun Ayele - Full Stack Developer 
 
-📍 [Location] | 🔗 [Personal Website] | ✉️ [Email]
+📍 Addis Ababa, Ethiopia | 🔗 [Personal Website] | ✉️ [Email]
 
 [Brief 1-sentence tagline about your specialty]
 
