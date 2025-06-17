@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name] - [Your Role] 
+# 👋 Hi, I'm Shehun Ayele - Full Stack Developer 
 
 📍 [Location] | 🔗 [Personal Website] | ✉️ [Email]
 
